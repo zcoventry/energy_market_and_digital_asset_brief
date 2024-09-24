@@ -10,10 +10,8 @@ _September 25, 2024_
 
 <br><br>
 
-## HEADLINES
+## HEADLINE
 ### 1
-### 2
-### 3
 
 ## ENERGY MARKETS
 ### POWER | ERCOT
