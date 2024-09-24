@@ -1,8 +1,14 @@
 # ENERGY MARKET & DIGITAL ASSET BRIEF
 _September 25, 2024_
 
-| **CONTENTS** | |
-| Headlines | Energy Markets | Digital Assets | Events | Business Classifieds |  
+**CONTENTS**
+1. Headlines
+2. Energy Markets
+3. Digital Assets
+4. Events
+5. Business Classifieds
+
+<br><br>
 
 ## HEADLINES
 ### 1
