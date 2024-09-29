@@ -2,16 +2,16 @@
 # GIT IGNORE PAGE
 
 ## CUSTOM GITIGNORE LINES
-.gif  
-.GIF  
-.jpeg  
-.JPEG  
-.jpg  
-.JPG  
-.pdf  
-.PDF  
-.png  
-.PNG  
+#.gif  
+#.GIF  
+#.jpeg  
+#.JPEG  
+#.jpg  
+#.JPG  
+#.pdf  
+#.PDF  
+#.png  
+#.PNG  
 
 ---
 ## GITIGNORE TEMPLATE FROM GITHUB  
