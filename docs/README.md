@@ -2,6 +2,23 @@
 _September 25, 2024_  
 _By [Zac Coventry](https://www.linkedin.com/in/zaccoventry/) and [5's Z-Team](https://www.energyby5.com/people/eric-bratcher)_
 
+  
+  * [HEADLINE](#headline)
+    + [1](#1)
+  * [ENERGY MARKETS](#energy-markets)
+    + [POWER | ERCOT](#power---ercot)
+    + [POWER | PJM](#power---pjm)
+    + [OIL & GAS](#oil---gas)
+  * [DIGITAL ASSETS](#digital-assets)
+    + [1](#1-1)
+    + [2](#2)
+    + [3](#3)
+  * [EVENTS](#events)
+  * [BUSINESS CLASSIFIEDS](#business-classifieds)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> 
+
+    
 **CONTENTS**
 1. Headlines
 2. Energy Markets
