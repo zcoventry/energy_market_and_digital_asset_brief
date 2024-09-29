@@ -1,5 +1,6 @@
 # ENERGY MARKET & DIGITAL ASSET BRIEF
-_September 25, 2024_
+_September 25, 2024_  
+_By [Zac Coventry](https://www.linkedin.com/in/zaccoventry/) and [5's Z-Team](https://www.energyby5.com/people/eric-bratcher)_
 
 **CONTENTS**
 1. Headlines
@@ -14,7 +15,10 @@ _September 25, 2024_
 ### 1
 
 ## ENERGY MARKETS
+
 ### POWER | ERCOT
+
+
 ### POWER | PJM
 ### OIL & GAS
 
