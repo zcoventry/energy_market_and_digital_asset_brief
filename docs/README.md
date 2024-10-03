@@ -26,7 +26,23 @@ _Thanks to [5's Z-Team](https://www.energyby5.com/people/eric-bratcher) and [Lev
 <br><br>
 
 ## HEADLINE
-### 1
+### DECENTRALIZED FINANCE IS RESHAPING OUR FINANCIAL REALITY
+As I grow older, one of my life take-aways is that things that matter often go unnoticed until we step back.
+> We step back from the trees and see the forest.  
+>
+> We step back from our children's childhood and see responsible adults.
+> 
+> We step back from a career worth of IRA savings and see a retirement.  
+
+I'm no banker, but I think I see the financial world evolving beneath our feet. Slow enough that we don't feel it in our work-a-day lives, but fast enough that our teenager's financial options and operations will be fundamentally different from our own. 
+
+Have you noticed that bitcoin can be purchased at the ATM on the corner and on the Cash app? 
+
+**Blockchain technologies, decentralized finance, and bitcoin are reshaping the financial world as we speak.** 
+
+How do I justify such a sweeping statement? As a case in point, consider _Block, Inc_. Formerly _Square, Inc._, is a publically traded financial technology company ([NYSE: SQ][block]) with a market capitalization approaching US$40 billion with 2023 revenues of almost US$22 billion. 
+
+Block employs over 12,000 people across multiple businesses including Square; Cash App; TBD; Tidal; and Spiral. Chances are you've used Square and/or Cash App to pay for coffee, street food, or a haircut. 
 
 ## ENERGY MARKETS  
 **U.S. energy market prices are a bargain right now from most perspectives.** I do not expect these buying opportunities to persist in the medium term. 
@@ -93,6 +109,7 @@ Near-term temperatures are looking bullish for ERCOT and slighlty bullish for PJ
 
 
 
+[block]: https://www.google.com/finance/quote/SQ:NYSE?sa=X&ved=2ahUKEwikkKC2qPCIAxW9GtAFHcMxOZsQ3ecFegQINRAZ  
 [el_ercot_range]: media/20240930/el_futures_ercot_north_annual_24mo_range.png "ERCOT price range"  
 [el_ercot_spot]: media/20240930/el_hx_ercot_north_20240929.png "ERCOT spot prices"  
 [el_ercot_futures]: media/20240930/el_futures_ercot_north_annual_24mo_range.png "ERCOT futures prices"  
