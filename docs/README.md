@@ -2,9 +2,10 @@
 [Zac Coventry](https://www.linkedin.com/in/zaccoventry/) & [5's Z-Team](https://www.energyby5.com/people/eric-bratcher) and [Level5](https://www.energyby5.com/level5)  
 October 8, 2024  
 
+
 | SECTION | CONTENT |  
 | - | - |  
-| [**HEADLINE**](#decentralized-finance-and-our-evolving-financial-options) | [Decentralized finance and our evolving financial options](#decentralized-finance-and-our-evolving-financial-options) | |  
+| [**HEADLINE**](#decentralized-finance-and-our-evolving-financial-options) | [Decentralized finance and our evolving financial options](#decentralized-finance-and-our-evolving-financial-options) |    
 | [**MARKETS**](#energy-markets) | [Power](#power-markets) <br> [Natural Gas](#natural-gas-markets) |    
 | [**WEATHER**](#weather)  |   |  
 | | |     
