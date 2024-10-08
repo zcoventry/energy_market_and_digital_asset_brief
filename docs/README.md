@@ -7,8 +7,7 @@ October 8, 2024
 | - | - |  
 | [**HEADLINE**](#decentralized-finance-and-our-evolving-financial-options) | [Decentralized finance and our evolving financial options](#decentralized-finance-and-our-evolving-financial-options) |    
 | [**MARKETS**](#energy-markets) | [Power](#power-markets) <br> [Natural Gas](#natural-gas-markets) |    
-| [**WEATHER**](#weather)  |   |  
-| | |     
+| [**WEATHER**](#weather)  |   |      
 
 <br>
 
