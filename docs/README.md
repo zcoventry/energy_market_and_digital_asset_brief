@@ -27,22 +27,31 @@ _Thanks to [5's Z-Team](https://www.energyby5.com/people/eric-bratcher) and [Lev
 
 ## HEADLINE
 ### DECENTRALIZED FINANCE IS RESHAPING OUR FINANCIAL REALITY
-As I grow older, one of my life take-aways is that things that matter often go unnoticed until we step back.
-> We step back from the trees and see the forest.  
+One of life's ironies is the changes that matter most are often easy to miss. 
+> Our children are born and we are the center of our their world. We blink. Suddenly they are striding toward adulthood.
 >
-> We step back from our children's childhood and see responsible adults.
+> We make healthy lifestyle decisions until they become habits. We blink. Those habits have transformed our physical, mental, and emotional realities.
 > 
-> We step back from a career worth of IRA savings and see a retirement.  
+> We hone our profession for days and weeks and years. We blink. Those workdays have evolved into an impressive career.
+<br>
 
-I'm no banker, but I think I see the financial world evolving beneath our feet. Slow enough that we don't feel it in our work-a-day lives, but fast enough that our teenager's financial options and operations will be fundamentally different from our own. 
+Fundamental changes in the world of finance may be escaping our notice and, in parallel, reshaping our financial operating envir
 
-Have you noticed that bitcoin can be purchased at the ATM on the corner and on the Cash app? 
 
-**Blockchain technologies, decentralized finance, and bitcoin are reshaping the financial world as we speak.** 
+I speculate that the same sort of changes are happening before our eyes in the world of finance. 
 
-How do I justify such a sweeping statement? As a case in point, consider _Block, Inc_. Formerly _Square, Inc._, is a publically traded financial technology company ([NYSE: SQ][block]) with a market capitalization approaching US$40 billion with 2023 revenues of almost US$22 billion. 
+**Is it possible that blockchain technology, decentralized finance, and computational power are fundamentally reshaping our financial reality and, yet, those changes go largely unnoticed in the midst of our busy lives?** I think so.
 
-Block employs over 12,000 people across multiple businesses including Square; Cash App; TBD; Tidal; and Spiral. Chances are you've used Square and/or Cash App to pay for coffee, street food, or a haircut. 
+How much of your banking is done on an app and not in a brick and mortar bank? Five years ago most people had never heard of bitcoin and now it can be purchased at the ATM on the corner and on the Cash App.
+
+As a US$40 billion case-in-point, consider consider _Block, Inc._ Formerly _Square, Inc._, Block, Inc. is a publically traded financial technology company ([NYSE: SQ][block]) with a market capitalization approaching US$40 billion and 2023 revenues of almost US$22 billion. Block employs over 12,000 people across multiple businesses including Square; Cash App; TBD; Tidal; and Spiral. Chances are you've used Square and/or Cash App to pay for coffee, street food, or a haircut. 
+
+**Here's the punchline: Block and other financial innovatars are investing heavily in the culture and technology around decentralized finance. We may not feel the gravity of these changes in the moment, but their long-term implications are vast.** 
+
+> _Bitcoin is the best money. It whould be used like it. We build and fund free, open-source projects aimed at making bitcoin the planet's preferred currency_ [(Spiral (a Block, Inc. company))][spiral].  
+>
+> _TBD is focused on building open and decentralized technologies to create a truly open financial world. Guided by this vision, TBD is creating an open source developer platform and infrastructure that enables everyone to access and participate in the global economy_ [(tbd (a Block, Inc. company))][tbd].  
+
 
 ## ENERGY MARKETS  
 **U.S. energy market prices are a bargain right now from most perspectives.** I do not expect these buying opportunities to persist in the medium term. 
@@ -118,6 +127,8 @@ Near-term temperatures are looking bullish for ERCOT and slighlty bullish for PJ
 [ng_futures]: media/20240930/ng_futures_hhub_annual_20240929.png "Natural futures prices"  
 [ng_spot]: media/20240930/ng_hx_hhub_monthly_20240929_annual.jpg "Natural gas spot prices"  
 [ng_storage]: media/20240930/ng_futures_hhub_annual_20240929_v2.png "Natural gas storage"  
+[spiral]: https://spiral.xyz/  
+[tbd]: https://tbd.website/
 [weather_6to10]: https://www.cpc.ncep.noaa.gov/products/predictions/610day/610temp.new.gif "NOAA 6 to 10 day temperature outlook"  
 [weather_8to14]: https://www.cpc.ncep.noaa.gov/products/predictions/814day/814temp.new.gif  "NOAA 6 to 10 day temperature outlook"  
 [weather_season]: https://www.cpc.ncep.noaa.gov/products/predictions/long_range/lead02/off02_temp.gif "NOAA seasonal temperature outlook"  
