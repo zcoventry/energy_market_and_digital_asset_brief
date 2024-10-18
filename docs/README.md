@@ -26,8 +26,8 @@ At the 2024 Abundance360 Summit, [**Michael Saylor spoke about the future of Bit
 **Figure 2**. (photo credit: [U.S. Department of Energy](https://www.energy.gov/ne/articles/5-facts-know-about-three-mile-island))  
 
 Google, Amazon, and Microsoft are all pursuing nuclear options to power their data centers.
-* [Bloomberg Technology \| Google Goes Nuclear in Search for New Energy Sources (5 min)](https://www.youtube.com/watch?v=wSGVsVVEyZ8)  
-* [The Verge \| Big Tech has cozied up to nuclear energy (3 min)](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)  
+* [Google Goes Nuclear in Search for New Energy Sources (5 min; Source: Bloomberg Technology)](https://www.youtube.com/watch?v=wSGVsVVEyZ8)  
+* [Big Tech has cozied up to nuclear energy (3 min; Source: The Verge)](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)  
 
 <br><br>
 
