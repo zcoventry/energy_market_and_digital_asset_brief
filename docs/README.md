@@ -18,9 +18,7 @@ October 18, 2024
 <img src='media/20241018/saylor.png' width='900'>  
 **Figure 1**. (photo credit: [YouTube](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500))  
 
-[The Future of Bitcoin w/ Michael Saylor (2024) /| MOONSHOTS EP #92](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500)  
-
-At the 2024 Abundance360 Summit, Michael Saylor spoke at the future of Bitcoin. If you only have a few minutes, start at the 25 minute mark. This talk is also available on [Spotify](https://open.spotify.com/episode/5VHr8vQMEecZr1y7WInJw0?si=fd2425ff276e44bc&nd=1&dlsi=6606ea14319b4950).  
+At the 2024 Abundance360 Summit, [**Michael Saylor spoke about the future of Bitcoin**](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500). If you only have a few minutes, start at the 25 minute mark. This talk is also available on [Spotify](https://open.spotify.com/episode/5VHr8vQMEecZr1y7WInJw0?si=fd2425ff276e44bc&nd=1&dlsi=6606ea14319b4950).  
 <br>
 
 ### BIG TECH GOES NUCLEAR
