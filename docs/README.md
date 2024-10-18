@@ -13,7 +13,6 @@ October 18, 2024
 
 ## HEADLINES
 ### THE FUTURE OF BITCOIN WITH MICHAEL SAYLOR
-(Tip of the hat to my friend and mentor, Sean Webber, for putting this resource on my radar)  <br>
 
 <img src='media/20241018/saylor.png' width='900'>  
 **Figure 1**. (photo credit: [YouTube](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500))  
