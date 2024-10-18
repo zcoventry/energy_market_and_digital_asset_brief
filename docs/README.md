@@ -5,32 +5,32 @@ October 18, 2024
 
 | SECTION | CONTENT |  
 | - | - |  
-| [**HEADLINE**](#decentralized-finance-and-our-evolving-financial-options) | [Decentralized finance and our evolving financial options](#decentralized-finance-and-our-evolving-financial-options) |    
+| [**HEADLINE**](#headlines) | [The Future of Bitcoin with Michael Saylor](#the-future-of-bitcoin-with-michael-saylor) <br> [Big Tech Goes Nuclear](#big-tech-goes-nuclear)   |    
 | [**MARKETS**](#energy-markets) | [Power](#power-markets) <br> [Natural Gas](#natural-gas-markets) |    
 | [**WEATHER**](#weather)  |   |      
 
 <br>
 
-## DECENTRALIZED FINANCE AND OUR EVOLVING FINANCIAL OPTIONS
-One of life's ironies is the changes that matter most are often easy to miss. 
-> _Our children are born and we are the center of our their world. We blink and they are striding toward adulthood._
->
-> _We make healthy lifestyle decisions until they become habits. Before we realize it, those habits reshape our identity._
-> 
-> _We hone our professional skills for days and weeks and years. In time, those skills carve out a unique niche that becomes a career._
-<br>
+## HEADLINES
+### THE FUTURE OF BITCOIN WITH MICHAEL SAYLOR
+(Tip of the hat to my friend and mentor, Sean Webber, for putting this resource on my radar)  <br>
 
-The same may be true for recent, incremental changes in global financial markets, systems, and services. **Is it possible that blockchain technology, decentralized finance, and computational power are reshaping our financial reality and, yet, those changes go largely unnoticed in the midst of our busy lives?** 
+<img src='media/20241018/saylor.png' width='900'>   
 
-I believe that it is. 
+[The Future of Bitcoin w/ Michael Saylor (2024) | MOONSHOTS EP #92](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500)  
 
-As a US$40 billion case-in-point, consider consider _Block, Inc._ ([NYSE: SQ](https://www.google.com/finance/quote/SQ:NYSE?sa=X&ved=2ahUKEwikkKC2qPCIAxW9GtAFHcMxOZsQ3ecFegQINRAZ)). Formerly known as _Square_, Block is a publically traded financial technology company with a market capitalization approaching US$40 billion, 2023 revenues of almost US$22 billion, and 12,000 employees spread across multiple business lines including [Square](https://squareup.com/us/en); [Cash App](https://cash.app/); [tbd](https://tbd.website/), and [Spiral](https://spiral.xyz/). Chances are you've used their services to pay for coffee, street food, or a haircut. 
+At the 2024 Abundance360 Summit, Michael Saylor spoke at the future of Bitcoin. If you only have a few minutes, start at the 25 minute mark. This talk is also available on [Spotify](https://open.spotify.com/episode/5VHr8vQMEecZr1y7WInJw0?si=fd2425ff276e44bc&nd=1&dlsi=6606ea14319b4950).
 
-> _Bitcoin is the best money. It whould be used like it. We build and fund free, open-source projects aimed at making bitcoin the planet's preferred currency_ [(Spiral)](https://spiral.xyz/).  
->
-> _TBD is focused on building open and decentralized technologies to create a truly open financial world. Guided by this vision, TBD is creating an open source developer platform and infrastructure that enables everyone to access and participate in the global economy_ [(tbd)](https://tbd.website/).  
+### BIG TECH GOES NUCLEAR
+<img src='media/20241018/three_mile.png' width='900'>  
+**Figure 2**. (photo credit: [U.S. Department of Energy](https://www.energy.gov/ne/articles/5-facts-know-about-three-mile-island))  
 
-**Block and financial innovators like them are investing heavily in the culture and technology around decentralized finance. We may not feel the gravity of these changes in the moment, but the long-term implications of their investments are vast.** 
+Google, Amazon, and Microsoft are all pursuing nuclear options to power their data centers.
+
+[Bloomberg Technology | Google Goes Nuclear in Search for New Energy Sources (5 min)](https://www.youtube.com/watch?v=wSGVsVVEyZ8)  
+<br>  
+[The Verge | Big Tech has cozied up to nuclear energy (3 min)](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)  
+
 <br><br>
 
 ## ENERGY MARKETS  
