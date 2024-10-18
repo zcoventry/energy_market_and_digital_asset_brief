@@ -15,27 +15,26 @@ October 18, 2024
 ### THE FUTURE OF BITCOIN WITH MICHAEL SAYLOR
 (Tip of the hat to my friend and mentor, Sean Webber, for putting this resource on my radar)  <br>
 
-<img src='media/20241018/saylor.png' width='900'> 
+<img src='media/20241018/saylor.png' width='900'>  
 **Figure 1**. (photo credit: [YouTube](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500))  
 
-[The Future of Bitcoin w/ Michael Saylor (2024) | MOONSHOTS EP #92](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500)  
+[The Future of Bitcoin w/ Michael Saylor (2024) /| MOONSHOTS EP #92](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500)  
 
-At the 2024 Abundance360 Summit, Michael Saylor spoke at the future of Bitcoin. If you only have a few minutes, start at the 25 minute mark. This talk is also available on [Spotify](https://open.spotify.com/episode/5VHr8vQMEecZr1y7WInJw0?si=fd2425ff276e44bc&nd=1&dlsi=6606ea14319b4950).
+At the 2024 Abundance360 Summit, Michael Saylor spoke at the future of Bitcoin. If you only have a few minutes, start at the 25 minute mark. This talk is also available on [Spotify](https://open.spotify.com/episode/5VHr8vQMEecZr1y7WInJw0?si=fd2425ff276e44bc&nd=1&dlsi=6606ea14319b4950).  
+<br>
 
 ### BIG TECH GOES NUCLEAR
 <img src='media/20241018/three_mile.png' width='900'>  
 **Figure 2**. (photo credit: [U.S. Department of Energy](https://www.energy.gov/ne/articles/5-facts-know-about-three-mile-island))  
 
 Google, Amazon, and Microsoft are all pursuing nuclear options to power their data centers.
-
-[Bloomberg Technology | Google Goes Nuclear in Search for New Energy Sources (5 min)](https://www.youtube.com/watch?v=wSGVsVVEyZ8)  
-<br>  
-[The Verge | Big Tech has cozied up to nuclear energy (3 min)](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)  
+* [Bloomberg Technology | Google Goes Nuclear in Search for New Energy Sources (5 min)](https://www.youtube.com/watch?v=wSGVsVVEyZ8)  
+* [The Verge | Big Tech has cozied up to nuclear energy (3 min)](https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy)  
 
 <br><br>
 
 ## ENERGY MARKETS  
-**From most perspectives, U.S. energy market prices are a bargain right now though beginning to show bullish sentiments.** I do not expect these buying opportunities to persist in the medium term. 
+**U.S. energy market prices are a bargain right now, though beginning to show bullish sentiments.** I do not expect these buying opportunities to persist in the medium term. 
 
 ### POWER MARKETS  
 ERCOT and PJM average monthly wholesale power prices are clearing around $25/MWh (Figure 3) and $35/MWh (Figure 4), respectively. These prices fall in the lower half of a twelve-month historical range (Figures 5 and 6).  
@@ -62,7 +61,7 @@ ERCOT and PJM average monthly wholesale power prices are clearing around $25/MWh
  
 
 ### NATURAL GAS MARKETS  
-Annualized natural gas prices remain at near-historic lows (Figure 7), however spot prices have risen by about $0.03/MMBtu over the last week. Bigger picture, I still see bullish tendencies in the market such as increasing power demands (e.g., data center loads), increasing LNG export capabilities, and U.S. storage values falling closer to the five-year historical average (Figure 8).
+Annualized natural gas prices remain at near-historic lows (Figure 7), however spot prices have risen by about $0.03/MMBtu over the last week. I am still bullish in the medium-term due to increasing demand for grid power (e.g., data center loads), increasing LNG export capabilities, and U.S. natural storage values falling closer to the five-year historical average (Figure 8).
 
 <img src='media/20241018/ng_hx_hhub_annual_20241017.png' width='900'>   
 
@@ -72,12 +71,12 @@ Annualized natural gas prices remain at near-historic lows (Figure 7), however s
 <img src='media/20241018/ng_eia_storage_20241017.png' width='700'>    
 
 **Figure 8**.
-<br>  
+<br>  <br>
 
 ### WEATHER 
-Near-term weather outlooks are bearish for ERCOT, PJM, and the U.S. natural gas market. Warmer temperatures will delay heating demands in the northeast, yet cooling loads in the south will be moderate (Figures 9 and 10). 
+Near-term weather outlooks are bearish for ERCOT, PJM, and the U.S. natural gas market. Warmer temperatures will delay heating demands in the northeast and cooling loads in the south will be moderate (Figures 9 and 10). 
 
-Fall and winter temperatures are forecasted to be slightly above average (Figure 11). If these forecasted temperatures become a reality, they will have a bearish influence on U.S. power and gas markets.
+Fall and winter temperatures are forecasted to be slightly above average (Figure 11). If these forecasted temperatures become a reality, they will have a bearish influence on U.S. power and gas markets.  
 
 <img src='https://www.cpc.ncep.noaa.gov/products/predictions/610day/610temp.new.gif' width='500'>
 
