@@ -1,6 +1,6 @@
 # ENERGY MARKET & DIGITAL ASSET BRIEF
 [Zac Coventry](https://www.linkedin.com/in/zaccoventry/) & [5's Z-Team](https://www.energyby5.com/people/eric-bratcher) and [Level5](https://www.energyby5.com/level5)  
-October 8, 2024  
+October 18, 2024  
 
 
 | SECTION | CONTENT |  
