@@ -15,7 +15,8 @@ October 18, 2024
 ### THE FUTURE OF BITCOIN WITH MICHAEL SAYLOR
 (Tip of the hat to my friend and mentor, Sean Webber, for putting this resource on my radar)  <br>
 
-<img src='media/20241018/saylor.png' width='900'>   
+<img src='media/20241018/saylor.png' width='900'> 
+**Figure 1**. (photo credit: [YouTube](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500))  
 
 [The Future of Bitcoin w/ Michael Saylor (2024) | MOONSHOTS EP #92](https://youtu.be/cifuTy4fBfg?feature=shared&t=1500)  
 
@@ -37,63 +38,62 @@ Google, Amazon, and Microsoft are all pursuing nuclear options to power their da
 **From most perspectives, U.S. energy market prices are a bargain right now though beginning to show bullish sentiments.** I do not expect these buying opportunities to persist in the medium term. 
 
 ### POWER MARKETS  
-ERCOT and PJM wholesale power prices are clearing around $25/MWh (Figure 1) and $30/MWh (Figure 2), respectively. When evaluated agains prices ranges over the last twenty-four months, these prices fall in the bottom half of the range for ERCOT (Figure 3) and PJM (Figure 4).  
+ERCOT and PJM average monthly wholesale power prices are clearing around $25/MWh (Figure 3) and $35/MWh (Figure 4), respectively. These prices fall in the lower half of a twelve-month historical range (Figures 5 and 6).  
 
-<img src='media/20240930/el_hx_ercot_north_20240929.png' width='900'>    
+<img src='media/20241018/elec_hx_ercot_north_20241018.png' width='900'>    
 
-**Figure 1**. _ERCOT North monthly average spot prices, September 2023 - September 2024_  
+**Figure 3**. _ERCOT North monthly average spot prices, October 2023 - October 2024_  
 <br>  
 
-<img src='media/20240930/el_hx_pjm_aep_20240929.png' width='900'>     
+<img src='media/20241018/elec_hx_pjm_aep_20241018.png' width='900'>     
 
-**Figure 2**. _PJM AEP Dayton monthly average spot prices, September 2023 - September 2024_  
+**Figure 4**. _PJM AEP Dayton monthly average spot prices, October 2023 - October 2024_  
 <br>  
 
-<img src='media/20240930/el_futures_ercot_north_annual_24mo_range.png' width='900'>     
+<img src='media/20241018/elec_futures_range_ercot_north_20241018.png' width='900'>     
 
-**Figure 3**. _ERCOT North annual futures over a 24-month range_  
+**Figure 5**. _ERCOT North annual futures compared to a 12-month range_  
 <br>  
 
-<img src='media/20240930/el_futures_pjm_aep_annual_24mo_range.png' width='900'>    
+<img src='media/20241018/elec_futures_range_pjm_aep_20241018.png' width='900'>    
 
-**Figure 4**. _PJM AEP Dayton annual futures over a 24-month range_  
+**Figure 6**. _PJM AEP Dayton annual futures compared to a 12-month range_  
 <br>  
  
 
 ### NATURAL GAS MARKETS  
-Annualized natural gas prices remain at near-historic lows (Figure 5). These low prices will be challenged by multiple bullish forces such as increasing LNG exports and U.S. storage values creeping closer to the five-year historical average (Figure 6).
+Annualized natural gas prices remain at near-historic lows (Figure 7), however spot prices have risen by about $0.03/MMBtu over the last week. Bigger picture, I still see bullish tendencies in the market such as increasing power demands (e.g., data center loads), increasing LNG export capabilities, and U.S. storage values falling closer to the five-year historical average (Figure 8).
 
-<img src='media/20240930/ng_hx_hhub_monthly_20240929_annual.jpg' width='900'>   
+<img src='media/20241018/ng_hx_hhub_annual_20241017.png' width='900'>   
 
-**Figure 5**. _Annualized wholesale natural gas, NYMEX Henry Hub, 2015-2024_  
+**Figure 7**. _Annualized wholesale natural gas, NYMEX Henry Hub, 2015-2024_  
 <br>  
 
-<img src='media/20240930/ng_eia_storage_20241003.png' width='700'>    
+<img src='media/20241018/ng_eia_storage_20241017.png' width='700'>    
 
-**Figure 6**.
+**Figure 8**.
 <br>  
 
 ### WEATHER 
-For ERCOT, near-term temparature outlooks (Figures 7 and 8) are slightly bullish since above average fall temperatures prolong cooling loads and reduce the amount of natural gas available for storage. For PJM, these same outlooks are mostly neutral since temperatures are not yet low enough to generate significant heating loads.
+Near-term weather outlooks are bearish for ERCOT, PJM, and the U.S. natural gas market. Warmer temperatures will delay heating demands in the northeast, yet cooling loads in the south will be moderate (Figures 9 and 10). 
 
-NOAA is predicting above average fall and early-winter temperatures which should be bearish for in both ERCOT and PJM (Figure 9). From a supply/demand balance perspective, a major cold weather event in the early fall could cause a price spike due to the tightness of the supply/demand balance in U.S.markets.
+Fall and winter temperatures are forecasted to be slightly above average (Figure 11). If these forecasted temperatures become a reality, they will have a bearish influence on U.S. power and gas markets.
 
 <img src='https://www.cpc.ncep.noaa.gov/products/predictions/610day/610temp.new.gif' width='500'>
 
-**Figure 7**. Source: [NOAA, 2024](https://www.cpc.ncep.noaa.gov/products/predictions/610day/610temp.new.gif)   
+**Figure 9**. Source: [NOAA, 2024](https://www.cpc.ncep.noaa.gov/products/predictions/610day/610temp.new.gif)   
 <br>    
 
 <img src='https://www.cpc.ncep.noaa.gov/products/predictions/814day/814temp.new.gif' width='500'>   
 
-**Figure 8**. Source: [NOAA, 2024](https://www.cpc.ncep.noaa.gov/products/predictions/814day/index.php)   
+**Figure 10**. Source: [NOAA, 2024](https://www.cpc.ncep.noaa.gov/products/predictions/814day/index.php)   
 <br>    
 
 
 <img src='https://www.cpc.ncep.noaa.gov/products/predictions/long_range/lead02/off02_temp.gif' width='500'>  
 
-**Figure 9**. Source: [NOAA, 2024](https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=2)     
+**Figure 11**. Source: [NOAA, 2024](https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=2)     
 <br>   
-
 
 Long-Term Bullish,  
 
